@@ -1,0 +1,40 @@
+
+h1
+{
+    font-style: italic;
+    font-size:62px;
+    font-family:inherit;
+    font-weight:100;
+    color:#34656d;
+    text-decoration: underline;
+    text-decoration-style: double;
+    
+    margin-bottom: 110px;
+    
+}
+.stil
+{
+    font-size: 20px;
+    font-family:Newsreader;
+    color:black;
+    
+}
+h2,h3,h4{font-style: italic; color:#34656d ;}
+
+a{color:#34656d;font-size:23px;}
+a:hover{
+   color:#34656d;
+}
+#product {
+    width:300px;
+    height:400px;
+}
+
+.blog{float:left;}
+.boxshow{
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#article
+{
+    margin-top:100px;
+}

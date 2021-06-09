@@ -1,0 +1,35 @@
+#about-info
+{
+    
+    height:500px;
+    padding: 20px;
+    max-width: 600px;
+    margin:50px auto;
+    box-shadow: 0 10px 30px 0px rgba(0,0,0,0.1);
+    position: relative;
+    padding:30px;
+    overflow:hidden;
+
+}
+.about-baslik
+{
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size:4em;
+    line-height: 48px;
+    padding-bottom:20px;
+    color:#5543ca;
+    padding-top: 30px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.about-yazi{
+    text-align:center;
+    letter-spacing:2px;
+    line-height: 22px;
+    font-size:1em;
+    padding:10px;
+   font-family: 'Noto Sans HK', sans-serif;
+    font-weight: 400;
+
+}
